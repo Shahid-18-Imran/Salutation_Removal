@@ -2,14 +2,12 @@ Sub RemoveSal2()
 
 
     Dim ws1 As Worksheet
-    Set ws1 = ActiveSheet  ' Change this if you want to check a specific sheet
+    Set ws1 = ActiveSheet  
 
     ' Check if the sheet is blank
     If WorksheetFunction.CountA(ws1.UsedRange) = 0 Then
         MsgBox "Page is blank", vbInformation
     Else
-        ' Run your code here
-        ' Add your code logic or call another macro/function
     
     Dim lastRow As Long
 
@@ -50,3 +48,4 @@ Sub RemoveSal2()
 
 End If
 End Sub
+

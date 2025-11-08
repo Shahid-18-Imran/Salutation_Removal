@@ -45,7 +45,7 @@ It helps in standardizing data for reports, ID generation, or any process requir
 ### 🧩 VBA Macro Used
 The project uses a VBA macro named **`RemoveSal2`**, which automates salutation cleanup.
 
-👉 [View or Download the Macro Code (`VBA.bas`)](./VBA_Code/VBA.bas)
+👉 [View or Download the Macro Code (`VBA.bas`)](./VBA.bas)
 
 ---
 
@@ -64,3 +64,4 @@ It focuses on real-world use cases like data preparation and cleanup.
 ### 🧑‍💻 Author
 **Shahid**  
 *Excel Automation | VBA | Data Cleaning | Process Optimization*
+
